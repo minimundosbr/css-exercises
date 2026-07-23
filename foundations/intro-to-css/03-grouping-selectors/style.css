@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+#button-1{
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+}
+
+#button-2{
+    background-color: #FFF000;
+    color: #000;
+}
+
+.grouped-buttons{
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 28px;
+}
